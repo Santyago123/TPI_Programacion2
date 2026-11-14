@@ -95,12 +95,9 @@ Verificar antes de la entrega que las pruebas cubran los casos de uso y las regl
 
 Completar estos datos antes de entregar:
 
-- **Video de presentación:** `PEGAR_AQUI_EL_ENLACE_PUBLICO_DEL_VIDEO`
+- **Video de presentación:** 
 - **Informe PDF:** file:///C:/Users/PREDATOR/OneDrive/Documentos/PDF%20X/TPI_Documento_Prog2.pdf
 
-Crear la carpeta `informe/` en la raíz y colocar allí el PDF con el nombre `Food_Store_Informe.pdf`. También se puede subir el PDF directamente a la raíz y actualizar el enlace.
-
-El video debe tener permisos de visualización para cualquier persona que disponga del enlace.
 
 ## Almacenamiento
 

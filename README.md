@@ -120,6 +120,6 @@ Los datos se guardan en colecciones en memoria mientras el programa está en eje
 
 ## Autor
 
-- **Estudiante:** COMPLETAR CON NOMBRE Y APELLIDO
+- **Estudiante:** Accastello Lucero Santiago Joaquin
 - **Materia:** Programación II
 - **Proyecto:** Trabajo Práctico Integrador — Food Store

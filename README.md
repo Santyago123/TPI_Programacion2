@@ -89,19 +89,15 @@ Desde la carpeta raíz:
 python pruebas.py
 ```
 
-Verificar antes de la entrega que las pruebas cubran los casos de uso y las reglas de negocio solicitadas.
-
 ## Documentación y presentación
-
-Completar estos datos antes de entregar:
 
 - **Video de presentación:** https://drive.google.com/file/d/1xWPmIKRVurrg6ox2sFk9tAGdTATAWWOI/view?usp=drive_link
 - **Informe PDF:** [file:///C:/Users/PREDATOR/OneDrive/Documentos/PDF%20X/TPI_Documento_Prog2.pdf](https://drive.google.com/file/d/1C47L2PoNgiUOgCCRFsnKnkKNUCWbDq_g/view?usp=drive_link)
-
+- **Enlace de repositorio:** https://github.com/Santyago123/TPI_Programacion2.git
 
 ## Almacenamiento
 
-Los datos se guardan en colecciones en memoria mientras el programa está en ejecución. No se utiliza una base de datos ni persistencia en archivos. Al cerrar la aplicación, los datos cargados se pierden, tal como establece la consigna.
+Los datos se guardan en colecciones en memoria mientras el programa está en ejecución. No se utiliza una base de datos ni persistencia en archivos. Al cerrar la aplicación, los datos cargados se pierden.
 
 ## Tecnologías y conceptos aplicados
 

@@ -95,7 +95,7 @@ Verificar antes de la entrega que las pruebas cubran los casos de uso y las regl
 
 Completar estos datos antes de entregar:
 
-- **Video de presentación:** 
+- **Video de presentación:** https://drive.google.com/file/d/1xWPmIKRVurrg6ox2sFk9tAGdTATAWWOI/view?usp=drive_link
 - **Informe PDF:** [file:///C:/Users/PREDATOR/OneDrive/Documentos/PDF%20X/TPI_Documento_Prog2.pdf](https://drive.google.com/file/d/1C47L2PoNgiUOgCCRFsnKnkKNUCWbDq_g/view?usp=drive_link)
 
 
